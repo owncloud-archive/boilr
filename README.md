@@ -1,6 +1,5 @@
 # boilr
 
-
 [![Build Status](https://drone.owncloud.com/api/badges/owncloud-ci/boilr/status.svg)](https://drone.owncloud.com/owncloud-ci/boilr)
 
 Boilr image for CI pipelines.
